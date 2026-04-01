@@ -3,3 +3,4 @@ router ospf 100
 router bgp 100
    router-id 1.1.1.1
 first ospf change
+QOS config
