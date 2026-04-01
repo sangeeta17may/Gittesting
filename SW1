@@ -2,3 +2,5 @@ vlan 100
 name sales
 vlan 200
 name marketing
+vlan 300
+name finance
